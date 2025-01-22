@@ -1,0 +1,64 @@
+*{
+    padding:0;
+    margin:0;
+}
+header{
+    background:greenyellow;
+    text-align: center;/*真ん中配置*/
+    padding: 20px;/*上下の余白*/
+}
+#gokuu{
+    background:white;
+    text-align: center;
+    padding: 15px;/*上下の余白*/
+    background: #DDEEFF;/*背景の色*/
+}
+#gokuu h2{
+    font-size: 23px;/*文字のフォントのサイズ*/
+    color:#ff00aa/*文字の色*/
+    
+}
+#gokuu img{
+    display: block;
+    width: 20%;/*写真の大きさ*/
+    margin-left: auto;
+    margin-right: auto;
+}
+#bezita{
+    background:white;
+    text-align: center;
+    padding: 15px;/*上下の余白*/
+    background: #DDEEFF;/*背景の色*/
+}
+#bezita h2{
+    font-size: 23px;/*文字のフォントのサイズ*/
+    color:#ff00aa/*文字の色*/
+}
+#bezita img{
+    display: block;
+    width: 20%;/*写真の大きさ*/
+    margin-left: auto;
+    margin-right: auto;
+}
+#torankusu{
+    background:white;
+    text-align: center;
+    padding: 15px;/*上下の余白*/
+    background: #DDEEFF;/*背景の色*/
+}
+#torankusu h2{
+    font-size: 23px;/*文字のフォントのサイズ*/
+    color:#ff00aa/*文字の色*/
+}
+#torankusu img{
+    display: block;
+    width: 20%;/*写真の大きさ*/
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    background: #ff0000;
+    text-align: center;/*真ん中配置*/
+    padding: 20px;
+    color:white;
+}
